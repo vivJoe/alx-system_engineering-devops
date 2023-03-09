@@ -1,0 +1,2 @@
+#!/bin/bash
+cgmod --reference olleh hello
