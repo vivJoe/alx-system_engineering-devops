@@ -1,2 +1,2 @@
 #!/bin/bash
-
+find -type f -name "*.grif" |rev | cut -d "/" -f 1 "." -f 2- | rev sort -f
