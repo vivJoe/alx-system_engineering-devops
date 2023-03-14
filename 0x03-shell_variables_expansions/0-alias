@@ -1,3 +1,2 @@
 #!/bin/bash
-alais l="ls"
-alias r="rm *"
+alias Name="ls" alias Value="rm *"
