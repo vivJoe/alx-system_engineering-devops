@@ -49,6 +49,6 @@ frontend  vivjoe.tech-https-frontend
 
 backend vivjoe.tech-backend
         balance roundrobin
-        server 914-web-01 44.210.150.159:80 check
-        server 914-web-02 35.173.47.15:80 check
+        server 344541-web-01 34.203.201.229 check
+        server 344541-web-02 52.87.254.228 check
 # end of parameters
