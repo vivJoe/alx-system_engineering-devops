@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Firewall
+=======
+FIREWALL
+>>>>>>> 0d9bcf663b05bb8e1589e3019e0d0b1fec861c3c
 In this project, I used ufw to configure firewalls on my issued web servers.
 
 Tasks 📃
